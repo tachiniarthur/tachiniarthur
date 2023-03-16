@@ -1,5 +1,6 @@
-### Oii! Meu nome é Arthur Tachini!
+### Me chamo Arthur Tachini!
 
+#### Linguagens mais usadas em meus projetos: <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tachiniarthur&layout=compact&show_icons=true&theme=dark)](https://github.com/tachiniarthur/github-readme-stats)
 
 <div style="display: inline_block"><br>
