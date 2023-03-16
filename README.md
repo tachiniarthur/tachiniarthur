@@ -2,7 +2,7 @@
 
 <img align="right" alt="Arthur-code" height="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-##### Sou um desenvolvedor Front-end e amo tecnologia!
+##### Atuo como desenvolvedor Front-End e tenho fascínio por novos desafios na área tecnológica!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tachiniarthur&layout=compact&theme=dark&show_icons=true)](https://github.com/tachiniarthur/github-readme-stats)
 
