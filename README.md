@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tachiniarthur&layout=compact&theme=dark&show_icons=true)](https://github.com/tachiniarthur/github-readme-stats)
 
+##
+
 #### Minhas tecnologias:
 
 <div style="display: inline_block">
@@ -14,7 +16,9 @@
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Arthur-Tail" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div><br>
+</div>
+
+##
 
 #### Você pode entrar em contato comigo por:
 <div>
