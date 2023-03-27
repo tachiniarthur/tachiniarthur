@@ -2,13 +2,13 @@
 
   <img alt="Arthur-code" height="180" src="https://i.pinimg.com/originals/ac/8f/61/ac8f610d390a504026b5e7bd2b67818f.gif">
 
-  ## <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=24&duration=1&pause=1&color=4F6969FF&center=true&vCenter=true&repeat=false&width=435&lines=Ol%C3%A1!+Me+chamo+Arthur+Tachini">
+  ## <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=24&duration=1&pause=1&color=4F6969FF&center=true&vCenter=true&repeat=false&width=435&lines=Ol%C3%A1!+Me+chamo+Arthur+Tachini">
 
 </div>
 
 <div align="center">
  
-  #### <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=16&pause=1000&color=698D8D&center=true&vCenter=true&width=500&height=60&lines=Atuo+como+desenvolvedor+Front-End;Amo+novos+desafios+na+%C3%A1rea+tecnol%C3%B3gica!">
+  #### <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=1000&color=698D8D&center=true&vCenter=true&width=500&height=60&lines=Atuo+como+desenvolvedor+Front-End;Amo+novos+desafios+na+%C3%A1rea+tecnol%C3%B3gica!">
   
   <div>
       
@@ -20,7 +20,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=16&duration=1&pause=1&color=698D8D&center=true&vCenter=true&repeat=false&width=500&height=60&lines=+Minhas+tecnologias%3A">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&duration=1&pause=1&color=698D8D&center=true&vCenter=true&repeat=false&width=500&height=60&lines=+Minhas+tecnologias%3A">
 
   <div style="display: inline_block">
     <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=16&duration=1&pause=1&color=698D8D&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Voc%C3%AA+pode+entrar+em+contato+comigo+por%3A">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&duration=1&pause=1&color=698D8D&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Voc%C3%AA+pode+entrar+em+contato+comigo+por%3A">
   
   <div>
     <a href="https://www.linkedin.com/in/arthur-henrique-tachini-635622210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
