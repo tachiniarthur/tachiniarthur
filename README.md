@@ -39,7 +39,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&duration=1&pause=1&color=698D8D&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Voc%C3%AA+pode+entrar+em+contato+comigo+por%3A">
   
   <div>
-    <a href="https://www.linkedin.com/in/arthur-henrique-tachini-635622210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/arthurtachini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/tachiini_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:tachiniarthur@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
