@@ -25,6 +25,7 @@
 $aboutMe = array(
 	"fullName" => "Arthur Henrique Tachini",
 	"age" => "19",
+	"birthDate" => "18/05/2003",
 	"address" => "Joinville - Santa Catarina, Brasil",
 	"rank" => "Full Stack Developer",
 	"studying" => "Bacharelado em Engenharia de Software - UNIVILLE - Campus Joinville",
