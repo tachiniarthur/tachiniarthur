@@ -40,6 +40,14 @@ $aboutMe = array(
 ```
 
 ##
+
+<div align="center">
+
+  ![Snake animation](https://github.com/tachiniarthur/tachiniarthur/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+##
   
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=20&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=460&lines=You+can+reach+me+at:">
