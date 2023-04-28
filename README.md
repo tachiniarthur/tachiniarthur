@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=34&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=520&lines=Ol%C3%A1,+me+chamo+Arthur+Tachini!">
+    <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=34&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=520&lines=Hello,+my+name+is+Arthur+Tachini!">
 </div>
 
 ##
 
 <div align="center">
   <div>
-    <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=20&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=460&lines=Minhas+tecnologias:">
+    <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=20&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=460&lines=My+technologies:">
   </div>
   <div>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,mysql,docker,git,gitlab" />
@@ -39,7 +39,7 @@ let aboutMe = {
 ##
   
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=20&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=460&lines=Voc%C3%AA+pode+entrar+em+contato+comigo+por:">
+  <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=20&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=460&lines=You+can+reach+me+at:">
   <div>
     <a href="https://www.linkedin.com/in/arthurtachini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/tachiini_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
