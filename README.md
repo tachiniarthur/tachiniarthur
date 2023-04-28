@@ -20,20 +20,22 @@
 
 ##
 
-```JavaScript
-let aboutMe = {
-  fullName: 'Arthur Henrique Tachini',
-  age: '19',
-  address: 'Joinville - Santa Catarina, BrasiL',
-  rank: 'Full Stack Developer',
-  studying: 'Bacharelado em Engenharia de Software - UNIVILLE - Campus Joinville',
-  softSkills: [
-    'organization',
-    'teamwork',
-    'communication',
-    'proactive',
-  ]
-};
+```php
+<?php
+$aboutMe = array(
+	"fullName" => "Arthur Henrique Tachini",
+	"age" => "19",
+	"address" => "Joinville - Santa Catarina, Brasil",
+	"rank" => "Full Stack Developer",
+	"studying" => "Bacharelado em Engenharia de Software - UNIVILLE - Campus Joinville",
+	"softSkills" => array(
+		"organization",
+		"teamwork",
+		"communication",
+		"proactive"
+	)
+);
+?>
 ```
 
 ##
