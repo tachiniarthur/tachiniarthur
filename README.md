@@ -13,30 +13,28 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=20&duration=1&pause=1&color=5F9C8C&center=true&vCenter=true&repeat=false&width=460&lines=My+technologies:">
   </div>
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,mysql,docker,git,gitlab" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,mysql,docker,git" />
   </div>
 </div>
 </div><br>
 
 ##
 
-```php
-<?php
-$aboutMe = array(
-	"fullName" => "Arthur Henrique Tachini",
-	"age" => "19",
-	"birthDate" => "18/05/2003",
-	"address" => "Joinville - Santa Catarina, Brasil",
-	"rank" => "Full Stack Developer",
-	"studying" => "Bacharelado em Engenharia de Software - UNIVILLE - Campus Joinville",
-	"softSkills" => array(
-		"organization",
-		"teamwork",
-		"communication",
-		"proactive"
-	)
-);
-?>
+```Javascript
+let aboutMe = {
+  fullName: "Arthur Henrique Tachini",
+  age: 19,
+  birthDate: "18/05/2003",
+  address: "Joinville - Santa Catarina, Brasil",
+  rank: "Full Stack Developer",
+  studying: "Bacharelado em Engenharia de Software - UNIVILLE - Campus Joinville",
+  softSkills: [
+    "organization",
+    "teamwork",
+    "communication",
+    "proactive"
+  ]
+}
 ```
 
 ##
