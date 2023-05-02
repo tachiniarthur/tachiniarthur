@@ -10,7 +10,7 @@
 
 <div align="center">
   <div>
-    <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=20&duration=1&pause=1&color=5F9C8C&center=true&vCenter=true&repeat=false&width=460&lines=My+technologies:">
+    <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=28&duration=1&pause=1&color=5F9C8C&center=true&vCenter=true&repeat=false&width=460&lines=My+technologies:">
   </div>
   <div>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,mysql,git" />
@@ -48,7 +48,7 @@ let aboutMe = {
 ##
   
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=20&duration=1&pause=1&color=5F9C8C&center=true&vCenter=true&repeat=false&width=460&lines=You+can+reach+me+at:">
+  <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=28&duration=1&pause=1&color=5F9C8C&center=true&vCenter=true&repeat=false&width=460&lines=You+can+reach+me+at:">
   <div>
     <a href="https://www.linkedin.com/in/arthurtachini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/tachiini_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
