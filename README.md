@@ -13,7 +13,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=20&duration=1&pause=1&color=5F9C8C&center=true&vCenter=true&repeat=false&width=460&lines=My+technologies:">
   </div>
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,mysql,git" />
   </div>
 </div>
 </div><br>
