@@ -32,7 +32,8 @@ let aboutMe = {
     "organization",
     "teamwork",
     "communication",
-    "proactive"
+    "resilience",
+    "desire to learn"
   ]
 }
 ```
