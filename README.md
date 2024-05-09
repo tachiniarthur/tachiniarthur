@@ -39,14 +39,6 @@ let aboutMe = {
 ```
 
 ##
-
-<div align="center">
-
-![snake gif](https://github.com/tachiniarthur/tachiniarthur/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-##
   
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=28&duration=1&pause=1&color=5F9C8C&center=true&vCenter=true&repeat=false&width=460&lines=You+can+reach+me+at:">
