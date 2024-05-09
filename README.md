@@ -42,7 +42,7 @@ let aboutMe = {
 
 <div align="center">
 
-  ![Snake animation](https://github.com/tachiniarthur/tachiniarthur/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/tachiniarthur/tachiniarthur/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 
