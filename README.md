@@ -1,22 +1,32 @@
 <div align="center">
-  <img alt="Arthur-code" height="180" src="https://i.pinimg.com/originals/ac/8f/61/ac8f610d390a504026b5e7bd2b67818f.gif">
+  
+  <h1>Olá, meu nome é Arthur Tachini!</h1>
+
+  <h2>Tecnologias e Ferramentas:</h2><br>
+  
+  ![HTML](https://skillicons.dev/icons?i=html)
+  ![CSS](https://skillicons.dev/icons?i=css)
+  ![Sass](https://skillicons.dev/icons?i=sass)
+  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+  ![JavaScript](https://skillicons.dev/icons?i=js)
+  ![Vuejs](https://skillicons.dev/icons?i=vue)
+  ![Vuejs](https://skillicons.dev/icons?i=jquery)
+  ![PHP](https://skillicons.dev/icons?i=php)
+  ![Laravel](https://skillicons.dev/icons?i=laravel)
+  ![Java](https://skillicons.dev/icons?i=java)
+  ![Python](https://skillicons.dev/icons?i=python)
+  ![MySQL](https://skillicons.dev/icons?i=mysql)
+  ![Docker](https://skillicons.dev/icons?i=docker)
+  ![Git](https://skillicons.dev/icons?i=git)
+
 </div>
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=34&duration=1&pause=1&color=5F9C8C&center=true&vCenter=true&repeat=false&width=520&lines=Hello,+my+name+is+Arthur+Tachini!">
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=28&duration=1&pause=1&color=5F9C8C&center=true&vCenter=true&repeat=false&width=460&lines=Technologies+and+Tools:">
-  <br>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,mysql,git" />
-</div>
-</div><br>
 
 ##
 
-```Javascript
+```javascript
 const aboutMe = {
   fullName: "Arthur Henrique Tachini",
-  age: 19,
+  age: 21,
   birthDate: "18/05/2003",
   location: "Joinville, Santa Catarina, Brazil",
   title: "Full Stack Developer",
@@ -32,11 +42,15 @@ const aboutMe = {
 ```
 
 ##
-  
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=28&duration=1&pause=1&color=5F9C8C&center=true&vCenter=true&repeat=false&width=460&lines=Contact+Me:">
-  <br>
-  <a href="https://www.linkedin.com/in/arthurtachini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/tachiini_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:tachiniarthur@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <h2>Entre em contato comigo:</h2><br>
+  
+  <div>
+    <a href="https://www.linkedin.com/in/arthurtachini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/tachiini_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:tachiniarthur@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+  
 </div>
