@@ -1,8 +1,8 @@
 <div align="center">
   
-  <h1>Olá, meu nome é Arthur Tachini!</h1>
+  # Olá, meu nome é Arthur Tachini!
 
-  <h2>Tecnologias e Ferramentas:</h2><br>
+  ## Tecnologias e Ferramentas:
   
   ![HTML](https://skillicons.dev/icons?i=html)
   ![CSS](https://skillicons.dev/icons?i=css)
@@ -45,7 +45,7 @@ const aboutMe = {
 
 <div align="center">
   
-  <h2>Entre em contato comigo:</h2><br>
+  ## Entre em contato comigo:
   
   <div>
     <a href="https://www.linkedin.com/in/arthurtachini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
