@@ -8,6 +8,7 @@
   ![CSS](https://skillicons.dev/icons?i=css)
   ![Sass](https://skillicons.dev/icons?i=sass)
   ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+  ![Tailwind](https://skillicons.dev/icons?i=tailwind)
   ![JavaScript](https://skillicons.dev/icons?i=js)
   ![Vuejs](https://skillicons.dev/icons?i=vue)
   ![Vuejs](https://skillicons.dev/icons?i=jquery)
