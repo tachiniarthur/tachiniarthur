@@ -1,98 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arthur%20Tachini&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04101f,50:0d2f5e,100:07182f&height=180&section=header&text=Arthur%20Tachini&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Joinville%2C%20BR&descAlignY=56&descColor=58a6ff&animation=fadeIn" width="100%"/>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Crafting+elegant+full-stack+solutions;Laravel+%7C+Vue.js+%7C+Spring+Boot;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Crafting+elegant+full-stack+solutions;Laravel+%7C+Vue.js+%7C+Spring+Boot;Always+learning%2C+always+building)](https://git.io/typing-svg)
+<a href="https://www.linkedin.com/in/arthurtachini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:tachiniarthur@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.instagram.com/tachiini_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<img src="https://komarev.com/ghpvc/?username=tachiniarthur&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views"/>
+<a href="https://github.com/tachiniarthur?tab=followers"><img src="https://img.shields.io/github/followers/tachiniarthur?style=flat-square&color=1f6feb&labelColor=0d1117&logo=github" alt="Followers"/></a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 👨‍💻 &nbsp;About Me
 
-```http
-GET /api/v1/developer/arthur HTTP/1.1
-Host: arthurtachini.dev
-Accept: application/json
-```
+Sou **Arthur Henrique Tachini**, desenvolvedor full stack em Joinville/SC, graduando em **Engenharia de Software**.
+
+Trabalho principalmente com **PHP, Laravel + Vue.js** no dia a dia e venho aprofundando **Java/Spring Boot** e **Python/FastAPI**. Gosto de código legível, arquitetura bem pensada e de resolver o problema real por trás do ticket.
 
 ```json
-HTTP/1.1 200 OK
-Content-Type: application/json
-
 {
-  "status": 200,
-  "developer": {
-    "fullName":  "Arthur Henrique Tachini",
-    "age":        21,
-    "birthDate": "2003-05-18",
-    "location":  "Joinville, Santa Catarina, Brazil",
-    "title":     "Full Stack Developer",
-    "education": "B.Sc. Software Engineering — UNIVILLE, Joinville",
-    "softSkills": [
-      "Organization 🗂️",
-      "Teamwork 🤝",
-      "Communication 💬",
-      "Resilience 💪",
-      "Desire to Learn 📚"
-    ],
-    "currentFocus": "Building scalable web applications",
-    "available":    true
-  }
+  "location": "Joinville, Santa Catarina, Brazil",
+  "education": "B.Sc. Software Engineering @ UNIVILLE",
+  "focus": "Scalable web applications",
+  "learning": ["Spring Boot", "System Design", "Docker"],
+  "softSkills": ["Organization", "Teamwork", "Communication"],
+  "openToWork": true
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white)
-
----
-
-## 📬 Let's Connect
+## 🧰 &nbsp;Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurtachini)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tachiini_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tachiniarthur@gmail.com)
+`FRONTEND`
+
+<img width="45" height="45" title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark"/>
+<img width="45" height="45" title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css&theme=dark"/>
+<img width="45" height="45" title="Sass" alt="Sass" src="https://skillicons.dev/icons?i=sass&theme=dark"/>
+<img width="45" height="45" title="Bootstrap" alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap&theme=dark"/>
+<img width="45" height="45" title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind&theme=dark"/>
+<img width="45" height="45" title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark"/>
+<img width="45" height="45" title="jQuery" alt="jQuery" src="https://skillicons.dev/icons?i=jquery&theme=dark"/>
+<img width="45" height="45" title="Vue.js" alt="Vue.js" src="https://skillicons.dev/icons?i=vue&theme=dark"/>
+<img width="45" height="45" title="React" alt="React" src="https://skillicons.dev/icons?i=react&theme=dark"/>
+<img width="45" height="45" title="Angular" alt="Angular" src="https://skillicons.dev/icons?i=angular&theme=dark"/>
+<img width="45" height="45" title="Inertia.js" alt="Inertia.js" src="https://cdn.simpleicons.org/inertia/9553E9"/>
+
+`BACKEND`
+
+<img width="45" height="45" title="PHP" alt="PHP" src="https://skillicons.dev/icons?i=php&theme=dark"/>
+<img width="45" height="45" title="Laravel" alt="Laravel" src="https://skillicons.dev/icons?i=laravel&theme=dark"/>
+<img width="45" height="45" title="Java" alt="Java" src="https://skillicons.dev/icons?i=java&theme=dark"/>
+<img width="45" height="45" title="Spring Boot" alt="Spring Boot" src="https://skillicons.dev/icons?i=spring&theme=dark"/>
+<img width="45" height="45" title="Python" alt="Python" src="https://skillicons.dev/icons?i=py&theme=dark"/>
+<img width="45" height="45" title="FastAPI" alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&theme=dark"/>
+
+`DATABASE`
+
+<img width="45" height="45" title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+<img width="45" height="45" title="PostgreSQL" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark"/>
+<img width="45" height="45" title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
+<img width="45" height="45" title="SQLite" alt="SQLite" src="https://skillicons.dev/icons?i=sqlite&theme=dark"/>
+<img height="45" title="Oracle Database" alt="Oracle Database" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+<img width="45" height="45" title="MariaDB" alt="MariaDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"/>
+
+`DEVOPS & TOOLS`
+
+<img width="45" height="45" title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark"/>
+<img width="45" height="45" title="Git" alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark"/>
+<img width="45" height="45" title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark"/>
+<img width="45" height="45" title="GitLab" alt="GitLab" src="https://skillicons.dev/icons?i=gitlab&theme=dark"/>
+<img width="45" height="45" title="Bitbucket" alt="Bitbucket" src="https://skillicons.dev/icons?i=bitbucket&theme=dark"/>
+<img width="45" height="45" title="Linux" alt="Linux" src="https://skillicons.dev/icons?i=linux&theme=dark"/>
+<img width="45" height="45" title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman&theme=dark"/>
+<img width="45" height="45" title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
 
 </div>
 
+---
+
+## 📊 &nbsp;GitHub Stats
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tachiniarthur&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1158C7&text_color=C9D1D9" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachiniarthur&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9" alt="Top languages"/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=tachiniarthur&hide_border=true&background=0D1117&stroke=30363D&ring=1F6FEB&fire=1158C7&currStreakLabel=1F6FEB&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tachiniarthur&bg_color=0D1117&color=1F6FEB&line=1158C7&point=FFFFFF&area=true&area_color=0D2F5E&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph"/>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=tachiniarthur&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
+
+</div>
+
+---
+
+<!--
+  🐍 SNAKE ANIMATION
+  Para isso funcionar você precisa do workflow .github/workflows/snake.yml
+  (já criado junto com este README). Depois que a Action rodar uma vez,
+  as imagens abaixo aparecem. Antes disso elas ficam quebradas — se quiser,
+  deixe esta seção comentada até a primeira execução.
+-->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tachiniarthur/tachiniarthur/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tachiniarthur/tachiniarthur/output/github-snake.svg"/>
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/tachiniarthur/tachiniarthur/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+<!--
+  ⭐ PROJETOS EM DESTAQUE
+  Descomente e troque REPO_1 / REPO_2 pelos nomes reais dos seus repositórios.
+
+## ⭐ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/tachiniarthur/REPO_1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tachiniarthur&repo=REPO_1&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1158C7&text_color=C9D1D9"/>
+</a>
+<a href="https://github.com/tachiniarthur/REPO_2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tachiniarthur&repo=REPO_2&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1158C7&text_color=C9D1D9"/>
+</a>
+
+</div>
+
+---
+-->
+
+## 📬 &nbsp;Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurtachini)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tachiniarthur@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tachiini_/)
+
+<br/>
+
+<i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07182f,50:0d2f5e,100:04101f&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=18&fontColor=58a6ff&fontAlignY=78" width="100%"/>
+
 </div>
