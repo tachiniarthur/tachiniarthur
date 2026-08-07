@@ -88,14 +88,9 @@ Trabalho principalmente com **PHP, Laravel + Vue.js** no dia a dia e venho aprof
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tachiniarthur&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1158C7&text_color=C9D1D9" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachiniarthur&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9" alt="Top languages"/>
-
 <img height="165" src="https://streak-stats.demolab.com?user=tachiniarthur&hide_border=true&background=0D1117&stroke=30363D&ring=1F6FEB&fire=1158C7&currStreakLabel=1F6FEB&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak"/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tachiniarthur&bg_color=0D1117&color=1F6FEB&line=1158C7&point=FFFFFF&area=true&area_color=0D2F5E&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph"/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=tachiniarthur&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
 
 </div>
 
